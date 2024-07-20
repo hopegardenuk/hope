@@ -489,19 +489,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2460512.553064364
+2460512.635082523
   9
 $TDUCREATE
  40
-2460512.553064364
+2460512.635082523
   9
 $TDUPDATE
  40
-2460512.553064664
+2460512.635082766
   9
 $TDUUPDATE
  40
-2460512.553064664
+2460512.635082766
   9
 $TDINDWG
  40
@@ -929,7 +929,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{f1737474-b372-3773-3938-6566777278b8}
+{76787330-b975-7873-b575-b13472736635}
   9
 $VERSIONGUID
   2
@@ -1345,9 +1345,9 @@ AcDbViewportTableRecord
  21
 1.0
  12
-19.52497716822115
+22.35344787697803
  22
-20.18581948511849
+15.57773472435147
  13
 0.0
  23
@@ -1373,7 +1373,7 @@ AcDbViewportTableRecord
  37
 0.0
  40
-35.89444779390762
+51.68800482322698
  41
 1.696528555431131
  42
@@ -6028,6 +6028,10 @@ LINE
 AcDbEntity
   8
 Furniture
+ 62
+     7
+420
+ 16777215
 100
 AcDbLine
  10
@@ -6052,6 +6056,10 @@ LINE
 AcDbEntity
   8
 Furniture
+ 62
+     7
+420
+ 16777215
 100
 AcDbLine
  10
@@ -6076,6 +6084,10 @@ LINE
 AcDbEntity
   8
 Furniture
+ 62
+     7
+420
+ 16777215
 100
 AcDbLine
  10
@@ -6100,6 +6112,10 @@ LINE
 AcDbEntity
   8
 Furniture
+ 62
+     7
+420
+ 16777215
 100
 AcDbLine
  10
@@ -14096,6 +14112,10 @@ ARC
 AcDbEntity
   8
 Structures
+ 62
+     7
+420
+ 16777215
 100
 AcDbCircle
  10
@@ -14122,6 +14142,10 @@ ARC
 AcDbEntity
   8
 Structures
+ 62
+     7
+420
+ 16777215
 100
 AcDbCircle
  10
@@ -14148,6 +14172,10 @@ ARC
 AcDbEntity
   8
 Structures
+ 62
+     7
+420
+ 16777215
 100
 AcDbCircle
  10
@@ -14174,6 +14202,10 @@ ARC
 AcDbEntity
   8
 Structures
+ 62
+     7
+420
+ 16777215
 100
 AcDbCircle
  10
@@ -14200,6 +14232,10 @@ LINE
 AcDbEntity
   8
 Furniture
+ 62
+     7
+420
+ 16777215
 100
 AcDbLine
  10
@@ -14224,6 +14260,10 @@ LINE
 AcDbEntity
   8
 Furniture
+ 62
+     7
+420
+ 16777215
 100
 AcDbLine
  10
@@ -14248,6 +14288,10 @@ LINE
 AcDbEntity
   8
 Furniture
+ 62
+     7
+420
+ 16777215
 100
 AcDbLine
  10
@@ -14272,6 +14316,10 @@ LINE
 AcDbEntity
   8
 Furniture
+ 62
+     7
+420
+ 16777215
 100
 AcDbLine
  10
@@ -14296,6 +14344,10 @@ LINE
 AcDbEntity
   8
 Furniture
+ 62
+     7
+420
+ 16777215
 100
 AcDbLine
  10
@@ -14320,6 +14372,10 @@ LINE
 AcDbEntity
   8
 Furniture
+ 62
+     7
+420
+ 16777215
 100
 AcDbLine
  10
@@ -14344,6 +14400,10 @@ LINE
 AcDbEntity
   8
 Furniture
+ 62
+     7
+420
+ 16777215
 100
 AcDbLine
  10
@@ -14368,6 +14428,10 @@ LINE
 AcDbEntity
   8
 Furniture
+ 62
+     7
+420
+ 16777215
 100
 AcDbLine
  10
@@ -26985,7 +27049,7 @@ AcDbXrecord
 280
      1
  40
-35.89444779390762
+51.68800482322698
   0
 XRECORD
   5
@@ -27003,7 +27067,7 @@ AcDbXrecord
 280
      1
  40
-60.89595566379625
+87.6901761558666
   0
 DICTIONARY
   5
